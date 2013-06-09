@@ -1,0 +1,10 @@
+body {
+	width: 100%;
+}
+#view {
+	box-shadow: 1px 1px 11px -1px rgba(0,0,0,0.3);
+	display: block;
+	height: 300px;
+	margin: 0 auto;
+	width: 800px;
+}
